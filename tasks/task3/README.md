@@ -1,4 +1,4 @@
-#Maximizing Drug Candidate Effectiveness with Bayesian Optimization
+# Maximizing Drug Candidate Effectiveness with Bayesian Optimization
 
 The task involves using Bayesian optimization to maximize a drug candidate's bioavailability (log) while ensuring it's easy to synthesize (SA < k). 
 The optimization algorithm iterates through evaluating structural features (× subject to a synthetic accessibility constraint, aiming to find the best x* 
