@@ -22,4 +22,4 @@ Graded 6.0/6.0
    - On MacOS, run bash runner.sh. Docker might by default restrict how much memory your solution may use. Running over the memory limit will result in docker writing "Killed" to the terminal. If you encounter out-of-memory issues you can increase the limits as described in the Docker Desktop for Mac user manual. Running over the memory limit will result in docker writing "Killed" to the terminal.
    - On Windows, open a PowerShell, change the directory to the handout folder, and run docker build --tag task1 .; docker run --rm -u $(id -u):$(id -g) -v "$(pwd):/results" task1 (replace task1 with the desired task).
 
-3. Set the variable EXTENDED_EVALUATION in solution.py to True to create a plot visualizing the model.
+3. If available, set the variable EXTENDED_EVALUATION in solution.py to True to create a plot visualizing the model.
