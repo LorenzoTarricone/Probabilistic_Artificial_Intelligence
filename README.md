@@ -1,7 +1,8 @@
 # Probabilistic Artificial Intelligenc
 
 Repository for the ETH course _Probabilistic Artificial Intelligence_ of Professor Andreas Krause in fall 2023. 
-Group composed by: Lucia Pezzetti, Federico Sartore and Lorenzo Tarricone
+
+Group composed by: **Lucia Pezzetti**, **Federico Sartore** and **Lorenzo Tarricone**
 
 Graded 6.0/6.0
 
